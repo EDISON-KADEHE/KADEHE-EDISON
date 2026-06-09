@@ -1,3 +1,8 @@
+NAME: EDISON STAPHOD KADEHE
+REGISTRATION NO: 14320096/T.24
+PROGRAMME: BSC.ICT-M2
+
+
 # Student Management System
 
 A simple PHP and MySQL system for managing student records in XAMPP.
